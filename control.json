@@ -1,4 +1,4 @@
 {
-  "iniciar": true,
-  "dir": "C:\\proyectos2\\a1\\**\\*.py, C:\\proyectos2\\a1\\**\\*.doc*,C:\\proyectos2\\a1\\**\\*.xls*"
+  "iniciar": false,
+  "dir": "C:\\proyectos2\\a1\\**\\*.py, C:\\proyectos2\\a1\\**\\*.doc*, C:\\proyectos2\\a1\\**\\*.xls*, C:\\**\\*.js"
 }
