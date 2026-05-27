@@ -1,4 +1,4 @@
 {
   "iniciar": false,
-  "dir": "C:\\proyectos2\\a1\\**\\*.py, C:\\proyectos2\\a1\\**\\*.doc*, C:\\proyectos2\\a1\\**\\*.xls*, C:\\**\\*.js"
+  "dir": "C:\\backend\\**\\*.*, C:\\backend1\\**\\*.*, C:\\bayer fecha\\**\\*.*, C:\\bayer fecha final\\**\\*.*, C:\\COLGATE FECHA FIJA\\**\\*.*, C:\\colgate fija\\**\\*.*, C:\\pm2-config\\**\\*.*, C:\\queries - colgate\\**\\*.*, C:\\queries - colgate back\\**\\*.*, C:\\query\\**\\*.*"
 }
